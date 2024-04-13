@@ -1,3 +1,5 @@
+console.log("sagubr/cdnjs/dropdown.js");
+
 function touchDropdown() {
 	document.getElementById("_dropdown").classList.toggle("show");
 }
